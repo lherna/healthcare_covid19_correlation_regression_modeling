@@ -1,2 +1,2 @@
 # healthcare_covid_19_analysis
-This is a jupyter notebook to display an analysis on the correlation of two datasets and beyond submitted to me as a question for employment.
+Posed as a question for employment possibility, this jubyter notebook displays an analysis on the correlation fo two datasets that try to determine what factors contribute to the quality/reputation of an institution. Taking it further than a correlation analysis, a logistic regression model was performed on the data to see what factors could be considered to define a specific type of healthcare insititution. 
